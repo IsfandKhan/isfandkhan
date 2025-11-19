@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Isfand Yar Khan's GitHub stats](https://github-readme-stats-two-gamma-43.vercel.app/api?username=isfandkhan&commits_year=2025&hide_rank=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Isfand Yar Khan's GitHub stats](https://github-readme-stats-two-gamma-43.vercel.app/api?username=isfandkhan&commits_year=2025&hide_rank=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **IsfandKhan/isfandkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
